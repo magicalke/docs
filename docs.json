@@ -63,18 +63,18 @@
                 "language": "cn",
                 "tabs": [
                     {
-                        "tab": "Guides",
+                        "tab": "",
                         "groups": [
                             {
-                                "group": "Get Started",
+                                "group": "指南",
                                 "pages": [
-                                    "index",
-                                    "quickstart",
-                                    "development"
+                                    "cn/index",
+                                    "cn/quickstart",
+                                    "cn/development"
                                 ]
                             },
                             {
-                                "group": "Essentials",
+                                "group": "要素",
                                 "pages": [
                                     "essentials/markdown",
                                     "essentials/code",
@@ -87,16 +87,16 @@
                         ]
                     },
                     {
-                        "tab": "API Reference",
+                        "tab": "API 参考",
                         "groups": [
                             {
-                                "group": "API Documentation",
+                                "group": "API 文档",
                                 "pages": [
                                     "api-reference/introduction"
                                 ]
                             },
                             {
-                                "group": "Endpoint Examples",
+                                "group": "端点示例",
                                 "pages": [
                                     "api-reference/endpoint/get",
                                     "api-reference/endpoint/create",

@@ -63,10 +63,10 @@
                 "language": "cn",
                 "tabs": [
                     {
-                        "tab": "",
+                        "tab": "指南",
                         "groups": [
                             {
-                                "group": "指南",
+                                "group": "开始",
                                 "pages": [
                                     "cn/index",
                                     "cn/quickstart",

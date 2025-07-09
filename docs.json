@@ -20,15 +20,15 @@
         ]
       },
       {
-        "language": "es",
+        "language": "cn",
         "groups": [
           {
             "group": "Getting Started",
-            "pages": ["es/overview", "es/quickstart", "es/development"]
+            "pages": ["cn/overview", "cn/quickstart", "cn/development"]
           }
         ]
       }
-    ]
+    ],
     "tabs": [
       {
         "tab": "Guides",

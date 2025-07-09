@@ -12,24 +12,7 @@
     "languages": [
       {
         "language": "en",
-        "groups": [
-          {
-            "group": "Getting Started",
-            "pages": ["en/overview", "en/quickstart", "en/development"]
-          }
-        ]
-      },
-      {
-        "language": "cn",
-        "groups": [
-          {
-            "group": "Getting Started",
-            "pages": ["cn/overview", "cn/quickstart", "cn/development"]
-          }
-        ]
-      }
-    ],
-    "tabs": [
+           "tabs": [
       {
         "tab": "Guides",
         "groups": [
@@ -74,7 +57,19 @@
           }
         ]
       }
+    ]
+      },
+      {
+        "language": "cn",
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": ["cn/overview", "cn/quickstart", "cn/development"]
+          }
+        ]
+      }
     ],
+ 
     "global": {
       "anchors": [
         {

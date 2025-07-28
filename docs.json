@@ -105,6 +105,26 @@
                                 ]
                             }
                         ]
+                    },
+                    {
+                        "tab": "API 参考2",
+                        "groups": [
+                            {
+                                "group": "API 文档2",
+                                "pages": [
+                                    "api-reference/introduction"
+                                ]
+                            },
+                            {
+                                "group": "端点示例2",
+                                "pages": [
+                                    "api-reference/endpoint/get",
+                                    "api-reference/endpoint/create",
+                                    "api-reference/endpoint/delete",
+                                    "api-reference/endpoint/webhook"
+                                ]
+                            }
+                        ]
                     }
                 ]
             }
